@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>HTML NA PRÁTICA</title>
+    </head>
+
+    <body>
+        <h1>HTML NA PRÁTICA</h1>
+        <hr />
+        <h2 id="inicio">Conteúdo</h2>
+
+        <ul>
+            <li><a href="#html">O que é HTML</a></li>
+            <li><a href="#funciona">Como funciona o HTML</a></li>
+            <li><a href="#o-que-sao">O que são Tags HTML</a></li>
+            <li><a href="#tags">Tags e Elementos mais utilizados</a></li>
+            <li><a href="#relacao">Qual a relação entre HTML, CSS e JavaScript</a></li>
+        </ul>
+
+        <h2 id="html">O que é HTML</h2>
+            <p>HTML é a sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto, em inglês). Foi criado na década de 1990 pelo físico britânico Tim Berners-Lee, considerado o “pai da web”, para auxiliar na formatação dos documentos de pesquisas compartilhados entre ele e seus colegas.
+            Com o desenvolvimento dos navegadores e a popularização da internet, o HTML passou a ser utilizado na criação de sites, tornando-se um dos pilares da “World Wide Web”. Atualmente, a tecnologia evoluiu e é utilizada em conjunto com outras ferramentas, como o CSS e o JavaScript, no desenvolvimento de sites e aplicativos web dinâmicos.</p> 
+            <p>HTML não é uma linguagem de programação; é uma linguagem de marcação, usada para definir a estrutura do seu conteúdo.
+            HTML consiste de uma série de elementos, que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira.</p>
+
+        <h2 id="funciona">Como funciona o HTML</h2>
+            <p>O HTML é uma linguagem de marcação com a qual os elementos de uma página são identificados e definidos, geralmente, por um par de marcadores conhecidos como tags. 
+            Esses elementos podem ser desde textos e suas formatações, como parágrafos, sublinhados e links, até conteúdos multimídia, como imagens e vídeos.
+            As tags descrevem a estrutura semântica de uma página, ou seja, a organização de suas informações, que então é recebida, interpretada e renderizada pelo navegador.</p>
+
+        <h2 id="o-que-sao">O que são Tags HTML</h2>
+            <p>Tags HTML são instruções que informam ao navegador como formatar o texto. Você pode usar tags para definir itálico, quebras de linha, objetos, bullet points e muito mais.
+            Essas tags estão presentes no HTML (Hypertext Markup Language) de todas as páginas da internet.</p>
+        
+        <h2 id="tags">Tags e Elementos mais utilizados</h2>
+            <p> Para ver a lista completa de todos os mais de 100 elementos HTML, acesse <a href="https://www.w3schools.com/" target="_blank">www.w3schools.com.</a></p>
+
+        <h2 id="relacao">Qual a relação entre HTML, CSS e JavaScript</h2>
+            <p>Mesmo que o HTML seja uma linguagem poderosa, não é o suficiente para criar um site profissional e responsivo. Ele pode ser utilizado apenas para adicionar elementos de texto e criação de estruturas de conteúdo.
+                Porém o HTML funciona muito bem com outras duas linguagens de front-end: CSS (Cascading Style Sheets), e JavaScript. Juntos eles proporcionam a implementação de funcionalidades avançadas e uma ótima experiência ao usuário.
+                O CSS é responsável pelo estilo como background, cores, layouts, espaçamentos, e animações.
+                O JavaScript permite a adição de funcionalidades dinâmicas como sliders, pop-ups, e galerias de fotos.
+                Imagine o HTML como uma pessoa nua, o CSS como as roupas, e o JavaScript como os movimentos e ações.</p>
+
+        <small><a href="#inicio">Voltar</a></small>
+        
+    </body>
+</html>
